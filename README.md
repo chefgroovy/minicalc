@@ -1,0 +1,4 @@
+minicalc
+========
+
+Very basic calulator
